@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SoftUni_Excs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.number_definer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.largest_of_three_n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.word_reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.even_numbers.py" afterDir="false" />
+    <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +30,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/tedo966/SoftUni_Excs.git",
+    "url": "https://github.com/tedo966/SoftUni-Python.git",
     "accountId": "0c7b47f2-32c3-40ee-ace7-ec7f1549c7c0"
   }
 }]]></component>
@@ -75,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726165793213</updated>
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/tedo966/SoftUni-Python.git">
+      <option name="closed" value="true" />
+      <created>1726170305699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726170305699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/tedo966/SoftUni-Python.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/tedo966/SoftUni-Python.git" />
   </component>
 </project>
