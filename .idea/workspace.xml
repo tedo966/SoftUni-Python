@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/05.numbers_between.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/08.jennys_secret.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/09,drink_something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/10.chat_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/11.maximum_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/12.orders.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.number_definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/01.number_definer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.largest_of_three_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/02.largest_of_three_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.word_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/03.word_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/04.even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.numbers_between.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/05.numbers_between.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/06.shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/07.patterns.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tedo966"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tedo966&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tedo966/SoftUni-Python.git",
-    "accountId": "0c7b47f2-32c3-40ee-ace7-ec7f1549c7c0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tedo966/SoftUni-Python.git&quot;,
+    &quot;accountId&quot;: &quot;0c7b47f2-32c3-40ee-ace7-ec7f1549c7c0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -52,10 +61,20 @@
     "Python.05.numbers_between.executor": "Debug",
     "Python.06.shopping.executor": "Debug",
     "Python.07.patterns.executor": "Run",
+    "Python.08.jennys_secret.executor": "Run",
+    "Python.09,drink_something.executor": "Run",
+    "Python.09.chat_codes.executor": "Run",
+    "Python.11.maximum_multiple.executor": "Run",
+    "Python.12.orders.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BasicSynx-CS-Loops" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726170751406</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="https://github.com/tedo966/SoftUni-Python.git">
+      <option name="closed" value="true" />
+      <created>1726200685410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726200685410</updated>
+    </task>
+    <task id="LOCAL-00004" summary="https://github.com/tedo966/SoftUni-Python.git">
+      <option name="closed" value="true" />
+      <created>1726200764594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726200764594</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
