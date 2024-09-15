@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/13.string.purness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/14.double_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/15.how_much_coffee_needed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/16.sorting_hat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/17.mutate_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/18.easter_bread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicSynx-CS-Loops/19.christmas_spirit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +55,16 @@
     "Python.08.jennys_secret.executor": "Run",
     "Python.09,drink_something.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
-    "Python.11.maximum_multiple.executor": "Run",
+    "Python.11.maximum_multiple.executor": "Debug",
     "Python.12.orders.executor": "Run",
     "Python.13.string.purness.executor": "Run",
     "Python.14.double_car.executor": "Run",
     "Python.15.how_much_coffee_needed.executor": "Run",
     "Python.16.sorting_hat.executor": "Run",
+    "Python.17.mutate_string.executor": "Debug",
+    "Python.18.easter_bread.executor": "Run",
+    "Python.19.christmas_spirit.executor": "Debug",
+    "Python.sfd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -125,5 +128,41 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://github.com/tedo966/SoftUni-Python.git" />
     <option name="LAST_COMMIT_MESSAGE" value="https://github.com/tedo966/SoftUni-Python.git" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicSynx-CS-Loops/18.easter_bread.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicSynx-CS-Loops/19.christmas_spirit.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicSynx-CS-Loops/19.christmas_spirit.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicSynx-CS-Loops/19.christmas_spirit.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicSynx-CS-Loops/19.christmas_spirit.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicSynx-CS-Loops/19.christmas_spirit.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
