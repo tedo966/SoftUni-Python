@@ -1,4 +1,6 @@
 # Prompt the user to choose a data type to perform operations on
+from pygments.lexer import include
+
 print("Choose a data type to perform operations on:")
 print("1. Strings")
 print("2. Numbers")
@@ -59,35 +61,61 @@ elif choice == '3':
         is_python_fun = True
     else:
         print("You are out of range!")
+    if is_python_fun:
+        print("Nice, you like it! \nThat's the spirit!\nKeep going...")
 
-    weather = input("How many degrees is outside? ")
+    question = input("Now one off-topic question. May I ask? ")
 
+    if question.lower() == "yes":
+
+        country = input("Where are you form?\nPlease enter country/city ")
+
+        weather = input(f"How many degrees is outside in {country}? ")
+        #world lowest temp = -89.2°C (-128.6°F)
+        #word highest temp = 56.7°C (134°F)
+        if float(weather) < -89.2 or float(weather) > 56.7:
+            print("That's impossible!")
+        elif float(weather) >= 20:
+            is_sunny = True
+        if is_sunny:
+            print("Awesome! That means it's sunny out there.")
+        if not is_sunny:
+            print(f"Nope, it's not sunny at all in {country}...")
+    else:
+        print("Sorry then have a good day!")
 
 # If the user chooses Additional Data Types (choice == '4'):
 elif choice == '4':
-    pass
+
 # ### List Operations ###
 # Create a list with mixed data types (e.g., numbers, strings, booleans).
-
+    list_operations = ["Insomnia",200,500.255,True,False,"Zeus","Hades"]
+    print(f"The current list is {list_operations}")
 # Append a new element to the list and print the updated list.
-
+    list_operations.insert(len(list_operations),"Prometeus")
+    print(f"The updated list is {list_operations}")
 # Access and print the 4th element in the list.
-
+    print(f"The fourth element from the list is: ({list_operations[3]})\nBut actually is the third guess why... ")
 # ### Tuple Operations ###
 # Create a tuple with some string elements (e.g., fruits).
-
+    tpl = ("Salami","Ham","Beacon")
+    print(f"This is a {tpl} tuple.")
 # Print the length of the tuple.
-
+    print(f"The length of the tuple is {len(tpl)}")
 # Try to modify one element in the tuple and handle the resulting TypeError.
-
+    try:
+        tpl[0] = "Jamon"
+    except:
+        print("An exception occurred.\nYou tried to modify a tuple.\nYou can't do that buddy!")
 # ### Dictionary Operations ###
 # Create a dictionary with some key-value pairs (e.g., name, age, city).
-
+    my_dict = {"Name":"Teodor","Age":28,"City":"Russe"}
 # Access and print the value for one of the keys (e.g., "age").
-
 # Add a new key-value pair to the dictionary and print the updated dictionary.
-
+    print(my_dict["Name"])
+    my_dict["Hobby"] = "going to gym"
+    print(my_dict)
 # If the user enters an invalid choice:
-else:
-    pass
 # Print an error message indicating an invalid selection.
+else:
+    print("Invalid choose, please try again in a few minutes.")
