@@ -2,6 +2,5 @@
 
 ## Content
 
--Basic Syntax, Conditional Statements and Loops
--Data Types and Variables
+-Basic Syntax, Conditional Statements and Loops; Data Types and Variables;
 
