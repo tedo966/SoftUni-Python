@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Functions/12.even_nums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SoftUni_Excs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SoftUni_Excs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/16.perfect_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +55,13 @@
     "Python.09,drink_something.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
     "Python.11.maximum_multiple.executor": "Debug",
-    "Python.12.even_nums.executor": "Debug",
+    "Python.12.even_nums.executor": "Run",
     "Python.12.orders.executor": "Run",
     "Python.13.string.purness.executor": "Run",
     "Python.14.double_car.executor": "Run",
     "Python.15.how_much_coffee_needed.executor": "Run",
+    "Python.16.pass_validator.executor": "Run",
+    "Python.16.perfect_number.executor": "Run",
     "Python.16.sorting_hat.executor": "Run",
     "Python.17.mutate_string.executor": "Debug",
     "Python.18.easter_bread.executor": "Run",
@@ -143,14 +143,9 @@
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Functions/12.even_nums.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Functions/12.even_nums.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="97" />
+          <url>file://$PROJECT_DIR$/Lists/16.perfect_number.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
