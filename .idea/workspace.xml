@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Lists/17.loading_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/18.factorial_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "Python.17.loading_bar.executor": "Run",
     "Python.17.mutate_string.executor": "Debug",
     "Python.18.easter_bread.executor": "Run",
+    "Python.18.factorial_number.executor": "Run",
     "Python.19.christmas_spirit.executor": "Run",
     "Python.example.executor": "Run",
     "Python.sfd.executor": "Run",
