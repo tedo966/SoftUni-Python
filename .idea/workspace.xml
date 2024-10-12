@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git" />
+    <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/01.no_vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
     "Python.06.shopping.executor": "Debug",
@@ -67,6 +71,7 @@
     "Python.19.christmas_spirit.executor": "Run",
     "Python.19.data_types.executor": "Run",
     "Python.example.executor": "Run",
+    "Python.guess_a_number.executor": "Run",
     "Python.sfd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
