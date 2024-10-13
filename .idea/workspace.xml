@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/01.no_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/02.trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/03.to_do_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,8 @@
   "keyToString": {
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
+    "Python.02.trains.executor": "Run",
+    "Python.03.to_do_list.executor": "Debug",
     "Python.05.numbers_between.executor": "Debug",
     "Python.06.shopping.executor": "Debug",
     "Python.07.patterns.executor": "Run",
@@ -152,6 +155,11 @@
           <url>file://$PROJECT_DIR$/Functions/18.perfect_number.py</url>
           <line>2</line>
           <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists_advanced/02.trains.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
