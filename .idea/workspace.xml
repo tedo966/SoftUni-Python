@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/08.wich_are_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/09.next_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/10.word_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/11.number_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/12.office_chairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/13.electron_distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/14.group_of_10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +67,15 @@
     "Python.09,drink_something.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
     "Python.09.next_version.executor": "Run",
+    "Python.10.word_filter.executor": "Run",
     "Python.11.maximum_multiple.executor": "Debug",
+    "Python.11.number_classification.executor": "Run",
     "Python.12.even_nums.executor": "Run",
     "Python.12.orders.executor": "Run",
+    "Python.13.electron_distribution.executor": "Debug",
     "Python.13.string.purness.executor": "Run",
     "Python.14.double_car.executor": "Run",
+    "Python.14.group_of_10.executor": "Debug",
     "Python.15.how_much_coffee_needed.executor": "Run",
     "Python.16.pass_validator.executor": "Run",
     "Python.16.perfect_number.executor": "Run",
@@ -168,14 +175,14 @@
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lists_advanced/09.next_version.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="115" />
+          <url>file://$PROJECT_DIR$/Lists_advanced/14.group_of_10.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lists_advanced/09.next_version.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="116" />
+          <url>file://$PROJECT_DIR$/Lists_advanced/14.group_of_10.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
