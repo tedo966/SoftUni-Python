@@ -18,3 +18,4 @@ def electron_distribution(electrons):
 electrons = int(input())
 result = electron_distribution(electrons)
 print(result)
+
