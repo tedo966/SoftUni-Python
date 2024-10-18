@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/15.decipher_this.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/01.black.hat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/02.shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/03.computer_store.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists_advanced/13.electron_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_advanced/13.electron_distribution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,9 @@
   "keyToString": {
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
+    "Python.02.shopping.executor": "Debug",
     "Python.02.trains.executor": "Run",
+    "Python.03.computer_store.executor": "Run",
     "Python.03.to_do_list.executor": "Debug",
     "Python.04.palindrome_strings.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
@@ -73,7 +76,7 @@
     "Python.13.string.purness.executor": "Run",
     "Python.14.double_car.executor": "Run",
     "Python.14.group_of_10.executor": "Debug",
-    "Python.15.decipher_this.executor": "Run",
+    "Python.15.decipher_this.executor": "Debug",
     "Python.15.how_much_coffee_needed.executor": "Run",
     "Python.16.pass_validator.executor": "Run",
     "Python.16.perfect_number.executor": "Run",
@@ -171,11 +174,6 @@
           <url>file://$PROJECT_DIR$/Lists_advanced/02.trains.py</url>
           <line>6</line>
           <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lists_advanced/15.decipher_this.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
