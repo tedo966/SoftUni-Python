@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Exam-exc/04.mu_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam-exc/05.bonus_scoring_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/06.space_travel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/07.greenhouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/08.burger_bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/09.cooking_masterclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/10_spring_vacation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/11.weapon_smith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam-exc/12.paintings_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam-exc/03.computer_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam-exc/03.computer_store.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,24 +60,30 @@
     "Python.03.to_do_list.executor": "Debug",
     "Python.04.mu_online.executor": "Debug",
     "Python.04.palindrome_strings.executor": "Run",
-    "Python.05.bonus_scoring_system.executor": "Debug",
+    "Python.05.bonus_scoring_system.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
     "Python.05.sorting_names.executor": "Run",
     "Python.06.even_numbers.executor": "Debug",
     "Python.06.shopping.executor": "Debug",
+    "Python.06.space_travel.executor": "Run",
     "Python.07.patterns.executor": "Run",
     "Python.07.the_office.executor": "Run",
+    "Python.08.burger_bus.executor": "Run",
     "Python.08.jennys_secret.executor": "Run",
     "Python.08.smallest_of_three_nums.executor": "Run",
     "Python.08.wich_are_in.executor": "Run",
     "Python.09,drink_something.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
+    "Python.09.cooking_masterclass.executor": "Debug",
     "Python.09.next_version.executor": "Run",
     "Python.10.word_filter.executor": "Run",
+    "Python.10_spring_vacation.executor": "Run",
     "Python.11.maximum_multiple.executor": "Debug",
     "Python.11.number_classification.executor": "Run",
+    "Python.11.weapon_smith.executor": "Run",
     "Python.12.even_nums.executor": "Run",
     "Python.12.orders.executor": "Run",
+    "Python.12.paintings_numbers.executor": "Run",
     "Python.13.electron_distribution.executor": "Run",
     "Python.13.string.purness.executor": "Run",
     "Python.14.double_car.executor": "Run",
@@ -188,9 +198,14 @@
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Exam-exc/05.bonus_scoring_system.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="122" />
+          <url>file://$PROJECT_DIR$/Exam-exc/10_spring_vacation.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam-exc/12.paintings_numbers.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
