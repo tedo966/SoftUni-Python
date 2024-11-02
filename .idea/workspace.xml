@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Exam-exc/06.space_travel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam-exc/07.greenhouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam-exc/08.burger_bus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam-exc/09.cooking_masterclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam-exc/10_spring_vacation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam-exc/11.weapon_smith.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam-exc/12.paintings_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-classes/01.comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-classes/02.party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-classes/03.email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-classes/04.zoo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,14 +49,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01.comment.executor": "Run",
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
+    "Python.02.party.executor": "Run",
     "Python.02.shopping.executor": "Debug",
     "Python.02.trains.executor": "Run",
     "Python.03.computer_store.executor": "Run",
+    "Python.03.email.executor": "Run",
     "Python.03.to_do_list.executor": "Debug",
     "Python.04.mu_online.executor": "Debug",
     "Python.04.palindrome_strings.executor": "Run",
+    "Python.04.zoo.executor": "Run",
     "Python.05.bonus_scoring_system.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
     "Python.05.sorting_names.executor": "Run",
@@ -117,7 +118,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -201,11 +202,6 @@
           <url>file://$PROJECT_DIR$/Exam-exc/10_spring_vacation.py</url>
           <line>22</line>
           <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Exam-exc/12.paintings_numbers.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
