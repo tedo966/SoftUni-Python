@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Object-classes/01.comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-classes/02.party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-classes/03.email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-classes/04.zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-classes/05.circle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
