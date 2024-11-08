@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Object-classes/09.town.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-classes/10.class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-classes/11.inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-classes/12.articles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-classes/13.vheicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-classes/14.movie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +92,10 @@
     "Python.12.paintings_numbers.executor": "Run",
     "Python.13.electron_distribution.executor": "Run",
     "Python.13.string.purness.executor": "Run",
+    "Python.13.vheicle.executor": "Run",
     "Python.14.double_car.executor": "Run",
     "Python.14.group_of_10.executor": "Debug",
+    "Python.14.movie.executor": "Run",
     "Python.15.decipher_this.executor": "Debug",
     "Python.15.how_much_coffee_needed.executor": "Run",
     "Python.16.pass_validator.executor": "Run",
