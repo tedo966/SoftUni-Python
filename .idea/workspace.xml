@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Object-classes/13.vheicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-classes/14.movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary-exc/01.bakery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary-exc/02.stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary-exc/03.statistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary-exc/04.students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary-exc/05.ascii_values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,18 +50,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01.bakery.executor": "Run",
     "Python.01.comment.executor": "Run",
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
     "Python.02.party.executor": "Run",
     "Python.02.shopping.executor": "Debug",
+    "Python.02.stock.executor": "Run",
     "Python.02.trains.executor": "Run",
     "Python.03.computer_store.executor": "Run",
     "Python.03.email.executor": "Run",
+    "Python.03.statistic.executor": "Run",
     "Python.03.to_do_list.executor": "Debug",
     "Python.04.mu_online.executor": "Debug",
     "Python.04.palindrome_strings.executor": "Run",
+    "Python.04.students.executor": "Debug",
     "Python.04.zoo.executor": "Run",
+    "Python.05.ascii_values.executor": "Run",
     "Python.05.bonus_scoring_system.executor": "Run",
     "Python.05.circle.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
