@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Dictionary-exc/01.bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary-exc/02.stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary-exc/03.statistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary-exc/04.students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary-exc/05.ascii_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/06.odd_occurrences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/07.word_synonims.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,12 +69,14 @@
     "Python.05.numbers_between.executor": "Debug",
     "Python.05.sorting_names.executor": "Run",
     "Python.06.even_numbers.executor": "Debug",
+    "Python.06.odd_occurrences.executor": "Debug",
     "Python.06.shopping.executor": "Debug",
     "Python.06.space_travel.executor": "Run",
     "Python.06.storage.executor": "Run",
     "Python.07.patterns.executor": "Run",
     "Python.07.the_office.executor": "Run",
     "Python.07.weapon.executor": "Debug",
+    "Python.07.word_synonims.executor": "Debug",
     "Python.08.burger_bus.executor": "Run",
     "Python.08.catalogue.executor": "Run",
     "Python.08.jennys_secret.executor": "Run",
@@ -217,6 +216,11 @@
           <url>file://$PROJECT_DIR$/Exam-exc/10_spring_vacation.py</url>
           <line>22</line>
           <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/07.word_synonims.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
