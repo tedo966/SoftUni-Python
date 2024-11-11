@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Dictionaries/08.count_chars_in_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/09.miner_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/10.capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/11.phonebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/12.legendary_farming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/13.orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/14.soft_uni_parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/15.courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/16.students_academy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/07.word_synonims.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/07.word_synonims.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,11 +105,14 @@
     "Python.12.orders.executor": "Run",
     "Python.12.paintings_numbers.executor": "Run",
     "Python.13.electron_distribution.executor": "Run",
+    "Python.13.orders.executor": "Run",
     "Python.13.string.purness.executor": "Run",
     "Python.13.vheicle.executor": "Run",
     "Python.14.double_car.executor": "Run",
     "Python.14.group_of_10.executor": "Debug",
     "Python.14.movie.executor": "Run",
+    "Python.14.soft_uni_parking.executor": "Run",
+    "Python.15.courses.executor": "Run",
     "Python.15.decipher_this.executor": "Debug",
     "Python.15.how_much_coffee_needed.executor": "Run",
     "Python.16.pass_validator.executor": "Run",
@@ -227,9 +228,9 @@
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Dictionaries/12.legendary_farming.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="159" />
+          <url>file://$PROJECT_DIR$/Dictionaries/14.soft_uni_parking.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="164" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
