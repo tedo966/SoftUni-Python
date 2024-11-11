@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Dictionaries/06.odd_occurrences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/07.word_synonims.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/08.count_chars_in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/09.miner_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/10.capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/11.phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/12.legendary_farming.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/07.word_synonims.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/07.word_synonims.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,22 +83,27 @@
     "Python.07.word_synonims.executor": "Debug",
     "Python.08.burger_bus.executor": "Run",
     "Python.08.catalogue.executor": "Run",
+    "Python.08.count_chars_in_string.executor": "Run",
     "Python.08.jennys_secret.executor": "Run",
     "Python.08.smallest_of_three_nums.executor": "Run",
     "Python.08.wich_are_in.executor": "Run",
     "Python.09,drink_something.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
     "Python.09.cooking_masterclass.executor": "Debug",
+    "Python.09.miner_task.executor": "Run",
     "Python.09.next_version.executor": "Run",
     "Python.09.town.executor": "Run",
+    "Python.10.capitals.executor": "Run",
     "Python.10.class.executor": "Run",
     "Python.10.word_filter.executor": "Run",
     "Python.10_spring_vacation.executor": "Run",
     "Python.11.inventory.executor": "Run",
     "Python.11.maximum_multiple.executor": "Debug",
     "Python.11.number_classification.executor": "Run",
+    "Python.11.phonebook.executor": "Run",
     "Python.11.weapon_smith.executor": "Run",
     "Python.12.even_nums.executor": "Run",
+    "Python.12.legendary_farming.executor": "Run",
     "Python.12.orders.executor": "Run",
     "Python.12.paintings_numbers.executor": "Run",
     "Python.13.electron_distribution.executor": "Run",
@@ -218,9 +227,9 @@
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Dictionaries/07.word_synonims.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="147" />
+          <url>file://$PROJECT_DIR$/Dictionaries/12.legendary_farming.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="159" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
