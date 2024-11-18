@@ -11,4 +11,6 @@
 - Text processing
 - Regular expressions
 - Web projects
+- Text processing
+- Regular expressions
 
