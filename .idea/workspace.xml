@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/01.match_full_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/02.match_phone_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/03.match_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/04.match_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/05.capture_the_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/18.force_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/18.force_book.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,105 +48,155 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01.bakery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.comment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.no_vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.number_definer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.party.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.shopping.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.02.stock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.trains.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.computer_store.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.email.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.statistic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.to_do_list.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.04.mu_online.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.04.palindrome_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.students.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.04.zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.ascii_values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.bonus_scoring_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.numbers_between.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.05.sorting_names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.even_numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.06.odd_occurrences.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.06.shopping.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.06.space_travel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.storage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.the_office.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.weapon.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.07.word_synonims.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.08.burger_bus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.catalogue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.count_chars_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.jennys_secret.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.smallest_of_three_nums.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.wich_are_in.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09,drink_something.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.chat_codes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.cooking_masterclass.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.09.miner_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.next_version.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.town.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.capitals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.word_filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10_spring_vacation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.inventory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.maximum_multiple.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.11.number_classification.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.phonebook.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.weapon_smith.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.even_nums.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.legendary_farming.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.orders.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.paintings_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.electron_distribution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.orders.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.string.purness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.vheicle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.double_car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.group_of_10.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.14.movie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.soft_uni_parking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15.courses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15.decipher_this.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.15.how_much_coffee_needed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.pass_validator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.perfect_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.sorting_hat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.students_academy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17.company_users.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17.loading_bar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17.mutate_string.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.18.easter_bread.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18.factorial_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18.force_book.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.19.christmas_spirit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19.data_types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_a_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sfd.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/SoftUni-Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01.bakery.executor": "Run",
+    "Python.01.comment.executor": "Run",
+    "Python.01.match_full_name.executor": "Run",
+    "Python.01.no_vowels.executor": "Run",
+    "Python.01.number_definer.executor": "Run",
+    "Python.01.reverse_string.executor": "Debug",
+    "Python.02.match_phone_number.executor": "Run",
+    "Python.02.party.executor": "Run",
+    "Python.02.repeat_string.executor": "Run",
+    "Python.02.shopping.executor": "Debug",
+    "Python.02.stock.executor": "Run",
+    "Python.02.trains.executor": "Run",
+    "Python.03.computer_store.executor": "Run",
+    "Python.03.email.executor": "Run",
+    "Python.03.match_dates.executor": "Run",
+    "Python.03.statistic.executor": "Run",
+    "Python.03.substring.executor": "Debug",
+    "Python.03.to_do_list.executor": "Debug",
+    "Python.04.match_numbers.executor": "Run",
+    "Python.04.mu_online.executor": "Debug",
+    "Python.04.palindrome_strings.executor": "Run",
+    "Python.04.students.executor": "Debug",
+    "Python.04.text_filter.executor": "Run",
+    "Python.04.zoo.executor": "Run",
+    "Python.05.ascii_values.executor": "Run",
+    "Python.05.bonus_scoring_system.executor": "Run",
+    "Python.05.circle.executor": "Run",
+    "Python.05.digit_letter_other.executor": "Run",
+    "Python.05.numbers_between.executor": "Debug",
+    "Python.05.sorting_names.executor": "Run",
+    "Python.06.even_numbers.executor": "Debug",
+    "Python.06.odd_occurrences.executor": "Debug",
+    "Python.06.shopping.executor": "Debug",
+    "Python.06.space_travel.executor": "Run",
+    "Python.06.storage.executor": "Run",
+    "Python.06.valid_username.executor": "Run",
+    "Python.07.character_multiplier.executor": "Run",
+    "Python.07.patterns.executor": "Run",
+    "Python.07.the_office.executor": "Run",
+    "Python.07.weapon.executor": "Debug",
+    "Python.07.word_synonims.executor": "Debug",
+    "Python.08.burger_bus.executor": "Run",
+    "Python.08.catalogue.executor": "Run",
+    "Python.08.count_chars_in_string.executor": "Run",
+    "Python.08.extract_file.executor": "Run",
+    "Python.08.jennys_secret.executor": "Run",
+    "Python.08.smallest_of_three_nums.executor": "Run",
+    "Python.08.wich_are_in.executor": "Run",
+    "Python.09,drink_something.executor": "Run",
+    "Python.09.caesar_cipher.executor": "Run",
+    "Python.09.chat_codes.executor": "Run",
+    "Python.09.cooking_masterclass.executor": "Debug",
+    "Python.09.miner_task.executor": "Run",
+    "Python.09.next_version.executor": "Run",
+    "Python.09.town.executor": "Run",
+    "Python.10.capitals.executor": "Run",
+    "Python.10.class.executor": "Run",
+    "Python.10.emoticon_finder.executor": "Run",
+    "Python.10.word_filter.executor": "Run",
+    "Python.10_spring_vacation.executor": "Run",
+    "Python.11.inventory.executor": "Run",
+    "Python.11.maximum_multiple.executor": "Debug",
+    "Python.11.number_classification.executor": "Run",
+    "Python.11.phonebook.executor": "Run",
+    "Python.11.replace_repeating_chars.executor": "Run",
+    "Python.11.weapon_smith.executor": "Run",
+    "Python.12.even_nums.executor": "Run",
+    "Python.12.legendary_farming.executor": "Run",
+    "Python.12.orders.executor": "Run",
+    "Python.12.paintings_numbers.executor": "Run",
+    "Python.12.string_explosion.executor": "Debug",
+    "Python.13.electron_distribution.executor": "Run",
+    "Python.13.letters_change_numbers.executor": "Run",
+    "Python.13.orders.executor": "Run",
+    "Python.13.string.purness.executor": "Run",
+    "Python.13.vheicle.executor": "Run",
+    "Python.14.double_car.executor": "Run",
+    "Python.14.group_of_10.executor": "Debug",
+    "Python.14.movie.executor": "Run",
+    "Python.14.rage_quit.executor": "Run",
+    "Python.14.soft_uni_parking.executor": "Run",
+    "Python.15.courses.executor": "Run",
+    "Python.15.decipher_this.executor": "Debug",
+    "Python.15.how_much_coffee_needed.executor": "Run",
+    "Python.15.winning_ticket.executor": "Run",
+    "Python.16.pass_validator.executor": "Run",
+    "Python.16.perfect_number.executor": "Run",
+    "Python.16.sorting_hat.executor": "Run",
+    "Python.16.students_academy.executor": "Run",
+    "Python.17.company_users.executor": "Run",
+    "Python.17.loading_bar.executor": "Run",
+    "Python.17.mutate_string.executor": "Debug",
+    "Python.18.easter_bread.executor": "Run",
+    "Python.18.factorial_number.executor": "Run",
+    "Python.18.force_book.executor": "Run",
+    "Python.19.christmas_spirit.executor": "Run",
+    "Python.19.data_types.executor": "Run",
+    "Python.19.soft_uni_exam_results.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.guess_a_number.executor": "Run",
+    "Python.sfd.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/SoftUni-Python",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SoftUni-Python\Functions" />
       <recent name="$PROJECT_DIR$/BasicSynx-CS-Loops" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="18.force_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni_Excs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/18.force_book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.18.force_book" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -233,14 +287,14 @@
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Dictionaries/17.company_users.py</url>
+          <url>file://$PROJECT_DIR$/Dictionaries/18.force_book.py</url>
           <line>2</line>
-          <option name="timeStamp" value="167" />
+          <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Dictionaries/18.force_book.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="173" />
+          <url>file://$PROJECT_DIR$/Text-processing/03.substring.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="177" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
