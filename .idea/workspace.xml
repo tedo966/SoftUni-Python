@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/01.match_full_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/02.match_phone_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/03.match_dates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/04.match_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/05.capture_the_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/06.find_ocurrence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/07.find_variable_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_expressions/08.extract_emails.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_expressions/05.capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expressions/05.capture_the_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +75,13 @@
     "Python.04.zoo.executor": "Run",
     "Python.05.ascii_values.executor": "Run",
     "Python.05.bonus_scoring_system.executor": "Run",
+    "Python.05.capture_the_numbers.executor": "Run",
     "Python.05.circle.executor": "Run",
     "Python.05.digit_letter_other.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
     "Python.05.sorting_names.executor": "Run",
     "Python.06.even_numbers.executor": "Debug",
+    "Python.06.find_ocurrence.executor": "Run",
     "Python.06.odd_occurrences.executor": "Debug",
     "Python.06.shopping.executor": "Debug",
     "Python.06.space_travel.executor": "Run",
@@ -94,6 +95,7 @@
     "Python.08.burger_bus.executor": "Run",
     "Python.08.catalogue.executor": "Run",
     "Python.08.count_chars_in_string.executor": "Run",
+    "Python.08.extract_emails.executor": "Run",
     "Python.08.extract_file.executor": "Run",
     "Python.08.jennys_secret.executor": "Run",
     "Python.08.smallest_of_three_nums.executor": "Run",
@@ -144,11 +146,12 @@
     "Python.17.mutate_string.executor": "Debug",
     "Python.18.easter_bread.executor": "Run",
     "Python.18.factorial_number.executor": "Run",
-    "Python.18.force_book.executor": "Run",
+    "Python.18.force_book.executor": "Debug",
     "Python.19.christmas_spirit.executor": "Run",
     "Python.19.data_types.executor": "Run",
     "Python.19.soft_uni_exam_results.executor": "Run",
     "Python.example.executor": "Run",
+    "Python.find_variable_names.executor": "Run",
     "Python.guess_a_number.executor": "Run",
     "Python.sfd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -163,35 +166,6 @@
       <recent name="E:\SoftUni-Python\Functions" />
       <recent name="$PROJECT_DIR$/BasicSynx-CS-Loops" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="18.force_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni_Excs" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/18.force_book.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.18.force_book" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
