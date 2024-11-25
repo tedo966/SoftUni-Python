@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Regular-expressions/09.furniture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular-expressions/10.extract_the_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/01.the_imitation_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/02.fancy_barcodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/01.match_full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/01.match_full_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/02.match_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/02.match_phone_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/03.match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/03.match_dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/04.match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/04.match_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/05.capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/05.capture_the_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/06.find_ocurrence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/06.find_ocurrence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/07.find_variable_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/07.find_variable_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/08.extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular-expressions/08.extract_emails.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +54,8 @@
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
     "Python.01.reverse_string.executor": "Debug",
+    "Python.01.the_imitation_game.executor": "Run",
+    "Python.02.fancy_barcodes.executor": "Run",
     "Python.02.match_phone_number.executor": "Run",
     "Python.02.party.executor": "Run",
     "Python.02.repeat_string.executor": "Run",
@@ -117,6 +112,7 @@
     "Python.10.capitals.executor": "Run",
     "Python.10.class.executor": "Run",
     "Python.10.emoticon_finder.executor": "Run",
+    "Python.10.extract_the_links.executor": "Run",
     "Python.10.word_filter.executor": "Run",
     "Python.10_spring_vacation.executor": "Run",
     "Python.11.inventory.executor": "Run",
