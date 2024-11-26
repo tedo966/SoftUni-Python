@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/01.the_imitation_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/02.fancy_barcodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,7 @@
     "Python.03.computer_store.executor": "Run",
     "Python.03.email.executor": "Run",
     "Python.03.match_dates.executor": "Run",
+    "Python.03.need_for_speed.executor": "Run",
     "Python.03.statistic.executor": "Run",
     "Python.03.substring.executor": "Debug",
     "Python.03.to_do_list.executor": "Debug",
@@ -272,6 +271,11 @@
           <url>file://$PROJECT_DIR$/Text-processing/03.substring.py</url>
           <line>2</line>
           <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="179" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
