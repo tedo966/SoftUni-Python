@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/04.world_tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/05.ad_astra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/06.the_pianist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/07.pirates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +75,7 @@
     "Python.04.palindrome_strings.executor": "Run",
     "Python.04.students.executor": "Debug",
     "Python.04.text_filter.executor": "Run",
+    "Python.04.world_tour.executor": "Run",
     "Python.04.zoo.executor": "Run",
     "Python.05.ascii_values.executor": "Run",
     "Python.05.bonus_scoring_system.executor": "Run",
@@ -86,6 +90,7 @@
     "Python.06.shopping.executor": "Debug",
     "Python.06.space_travel.executor": "Run",
     "Python.06.storage.executor": "Run",
+    "Python.06.the_pianist.executor": "Run",
     "Python.06.valid_username.executor": "Run",
     "Python.07.character_multiplier.executor": "Run",
     "Python.07.patterns.executor": "Run",
@@ -276,6 +281,10 @@
           <url>file://$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py</url>
           <line>9</line>
           <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final-exam-prep/05.ad_astra.py</url>
+          <option name="timeStamp" value="180" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
