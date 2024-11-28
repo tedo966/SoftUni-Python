@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/04.world_tour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/05.ad_astra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/06.the_pianist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/07.pirates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/08.destination_mapper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +97,7 @@
     "Python.08.burger_bus.executor": "Run",
     "Python.08.catalogue.executor": "Run",
     "Python.08.count_chars_in_string.executor": "Run",
+    "Python.08.destination_mapper.executor": "Run",
     "Python.08.extract_emails.executor": "Run",
     "Python.08.extract_file.executor": "Run",
     "Python.08.jennys_secret.executor": "Run",
@@ -281,10 +279,6 @@
           <url>file://$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py</url>
           <line>9</line>
           <option name="timeStamp" value="179" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Final-exam-prep/05.ad_astra.py</url>
-          <option name="timeStamp" value="180" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
