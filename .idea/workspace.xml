@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/08.destination_mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/09.plants.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +110,7 @@
     "Python.09.furniture.executor": "Debug",
     "Python.09.miner_task.executor": "Run",
     "Python.09.next_version.executor": "Run",
+    "Python.09.plants.executor": "Run",
     "Python.09.town.executor": "Run",
     "Python.10.capitals.executor": "Run",
     "Python.10.class.executor": "Run",
