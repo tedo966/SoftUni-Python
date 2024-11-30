@@ -49,3 +49,51 @@ count_plants = int(input())
 add_my_plants()
 update_my_plants()
 check_my_list_plants()
+
+
+# n = int(input())
+# plants = {}
+#
+# for _ in range(n):
+#     name, rarity = input().split('<->')
+#     rarity = int(rarity)
+#     plants[name] = {"rarity": rarity, "ratings": []}
+#
+# while True:
+#     line = input()
+#     if line == 'Exhibition':
+#         break
+#     command = line.split(': ')
+#     if command[0] == 'Rate':
+#         try:
+#             name, rating = command[1].split(' - ')
+#             rating = float(rating)
+#             if name in plants:
+#                 plants[name]["ratings"].append(rating)
+#             else:
+#                 print("error")
+#         except ValueError:
+#             print("error")
+#     elif command[0] == 'Update':
+#         try:
+#             name, new_rarity = command[1].split(' - ')
+#             new_rarity = int(new_rarity)
+#             if name in plants:
+#                 plants[name]["rarity"] = new_rarity
+#             else:
+#                 print("error")
+#         except ValueError:
+#             print("error")
+#     elif command[0] == 'Reset':
+#         name = command[1]
+#         if name in plants:
+#             plants[name]["ratings"] = []
+#         else:
+#             print("error")
+#     else:
+#         print("error")
+#
+# print('Plants for the exhibition:')
+# for name, details in plants.items():
+#     average_rating = sum(details["ratings"]) / len(details["ratings"]) if details["ratings"] else 0
+#     print(f'- {name}; Rarity: {details["rarity"]}; Rating: {average_rating:.2f}')

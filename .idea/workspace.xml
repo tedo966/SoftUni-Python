@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/09.plants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-exam-prep/10.secret_chat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-exam-prep/09.plants.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final-exam-prep/09.plants.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +117,7 @@
     "Python.10.class.executor": "Run",
     "Python.10.emoticon_finder.executor": "Run",
     "Python.10.extract_the_links.executor": "Run",
+    "Python.10.secret_chat.executor": "Run",
     "Python.10.word_filter.executor": "Run",
     "Python.10_spring_vacation.executor": "Run",
     "Python.11.inventory.executor": "Run",
