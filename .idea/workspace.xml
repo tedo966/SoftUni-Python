@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/14.decrypting_commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/15.message_decrypter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-exam-prep/16.degustation.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,6 +165,7 @@
     "Python.19.data_types.executor": "Run",
     "Python.19.soft_uni_exam_results.executor": "Run",
     "Python.demo.executor": "Run",
+    "Python.demo2.executor": "Run",
     "Python.example.executor": "Run",
     "Python.find_variable_names.executor": "Run",
     "Python.guess_a_number.executor": "Run",
@@ -291,16 +290,6 @@
           <url>file://$PROJECT_DIR$/Final-exam-prep/03.need_for_speed.py</url>
           <line>9</line>
           <option name="timeStamp" value="179" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Final-exam-prep/12.password_resset.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="184" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Final-exam-prep/13.heroes_of_code.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="190" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
