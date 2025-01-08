@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/01.reverse_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/02.matching_parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/03.supermarket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/04.water_dispenser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/03.supermarket.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/03.supermarket.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +69,14 @@
     "Python.03.need_for_speed.executor": "Run",
     "Python.03.statistic.executor": "Run",
     "Python.03.substring.executor": "Debug",
+    "Python.03.supermarket.executor": "Debug",
     "Python.03.to_do_list.executor": "Debug",
     "Python.04.match_numbers.executor": "Run",
     "Python.04.mu_online.executor": "Debug",
     "Python.04.palindrome_strings.executor": "Run",
     "Python.04.students.executor": "Debug",
     "Python.04.text_filter.executor": "Run",
+    "Python.04.water_dispenser.executor": "Run",
     "Python.04.world_tour.executor": "Run",
     "Python.04.zoo.executor": "Run",
     "Python.05.ascii_values.executor": "Run",
@@ -294,6 +295,11 @@
           <url>file://$PROJECT_DIR$/SoftUni-Python-Fundamentals/Final-exam-prep/03.need_for_speed.py</url>
           <line>9</line>
           <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/03.supermarket.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="182" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
