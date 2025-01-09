@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/04.water_dispenser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/05.hot_potatoe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/03.supermarket.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/03.supermarket.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
