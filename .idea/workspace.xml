@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/06.reverse_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/07.stacked_queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/08.fast_food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/09.fashion_boutique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/10.truck_tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/11.balanced_parenthesis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/09.fashion_boutique.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/09.fashion_boutique.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +113,7 @@
     "Python.09.caesar_cipher.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
     "Python.09.cooking_masterclass.executor": "Debug",
+    "Python.09.fashion_boutique.executor": "Debug",
     "Python.09.furniture.executor": "Debug",
     "Python.09.miner_task.executor": "Run",
     "Python.09.next_version.executor": "Run",
@@ -126,9 +124,10 @@
     "Python.10.emoticon_finder.executor": "Run",
     "Python.10.extract_the_links.executor": "Run",
     "Python.10.secret_chat.executor": "Run",
-    "Python.10.truck_tour.executor": "Run",
+    "Python.10.truck_tour.executor": "Debug",
     "Python.10.word_filter.executor": "Run",
     "Python.10_spring_vacation.executor": "Run",
+    "Python.11.balanced_parenthesis.executor": "Debug",
     "Python.11.inventory.executor": "Run",
     "Python.11.maximum_multiple.executor": "Debug",
     "Python.11.mirror.executor": "Run",
@@ -305,6 +304,21 @@
           <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/03.supermarket.py</url>
           <line>4</line>
           <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/09.fashion_boutique.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/10.truck_tour.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/11.balanced_parenthesis.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="195" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
