@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/11.balanced_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/12.robotics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/13.crossroads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/14.key_revolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/15.cups_and_bottles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/09.fashion_boutique.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/09.fashion_boutique.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +142,7 @@
     "Python.12.orders.executor": "Run",
     "Python.12.paintings_numbers.executor": "Run",
     "Python.12.password_resset.executor": "Run",
+    "Python.12.robotics.executor": "Debug",
     "Python.12.string_explosion.executor": "Debug",
     "Python.13.electron_distribution.executor": "Run",
     "Python.13.heroes_of_code.executor": "Run",
@@ -154,6 +157,7 @@
     "Python.14.rage_quit.executor": "Run",
     "Python.14.soft_uni_parking.executor": "Run",
     "Python.15.courses.executor": "Run",
+    "Python.15.cups_and_bottles.executor": "Run",
     "Python.15.decipher_this.executor": "Debug",
     "Python.15.how_much_coffee_needed.executor": "Run",
     "Python.15.message_decrypter.executor": "Run",
