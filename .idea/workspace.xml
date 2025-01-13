@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/12.robotics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/13.crossroads.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/14.key_revolver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/15.cups_and_bottles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/01.count_same_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/02.students_grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/03.reccord_unique_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/04.parking_lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/05.soft_uni_party.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
   "keyToString": {
     "Python.01.bakery.executor": "Run",
     "Python.01.comment.executor": "Run",
+    "Python.01.count_same_values.executor": "Run",
     "Python.01.match_full_name.executor": "Run",
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
@@ -64,6 +66,7 @@
     "Python.02.repeat_string.executor": "Run",
     "Python.02.shopping.executor": "Debug",
     "Python.02.stock.executor": "Run",
+    "Python.02.students_grade.executor": "Run",
     "Python.02.trains.executor": "Run",
     "Python.03.computer_store.executor": "Run",
     "Python.03.email.executor": "Run",
@@ -76,6 +79,7 @@
     "Python.04.match_numbers.executor": "Run",
     "Python.04.mu_online.executor": "Debug",
     "Python.04.palindrome_strings.executor": "Run",
+    "Python.04.parking_lot.executor": "Debug",
     "Python.04.students.executor": "Debug",
     "Python.04.text_filter.executor": "Run",
     "Python.04.water_dispenser.executor": "Run",
@@ -323,6 +327,11 @@
           <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Lists_stacks_queues/11.balanced_parenthesis.py</url>
           <line>10</line>
           <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/04.parking_lot.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="196" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
