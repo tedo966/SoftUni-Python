@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/01.count_same_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/02.students_grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/03.reccord_unique_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/04.parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/05.soft_uni_party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/06.unique_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/07.sets_of_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/08.periodic_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/09.count_symbols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/10.longest_intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/11.battle_of_names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +92,7 @@
     "Python.05.circle.executor": "Run",
     "Python.05.digit_letter_other.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
+    "Python.05.soft_uni_party.executor": "Run",
     "Python.05.sorting_names.executor": "Run",
     "Python.06.even_numbers.executor": "Debug",
     "Python.06.find_ocurrence.executor": "Run",
@@ -99,9 +101,11 @@
     "Python.06.space_travel.executor": "Run",
     "Python.06.storage.executor": "Run",
     "Python.06.the_pianist.executor": "Run",
+    "Python.06.unique_usernames.executor": "Run",
     "Python.06.valid_username.executor": "Run",
     "Python.07.character_multiplier.executor": "Run",
     "Python.07.patterns.executor": "Run",
+    "Python.07.sets_of_elements.executor": "Run",
     "Python.07.the_office.executor": "Run",
     "Python.07.weapon.executor": "Debug",
     "Python.07.word_synonims.executor": "Debug",
@@ -113,12 +117,14 @@
     "Python.08.extract_file.executor": "Run",
     "Python.08.fast_food.executor": "Run",
     "Python.08.jennys_secret.executor": "Run",
+    "Python.08.periodic_table.executor": "Run",
     "Python.08.smallest_of_three_nums.executor": "Run",
     "Python.08.wich_are_in.executor": "Run",
     "Python.09,drink_something.executor": "Run",
     "Python.09.caesar_cipher.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
     "Python.09.cooking_masterclass.executor": "Debug",
+    "Python.09.count_symbols.executor": "Run",
     "Python.09.fashion_boutique.executor": "Debug",
     "Python.09.furniture.executor": "Debug",
     "Python.09.miner_task.executor": "Run",
@@ -129,6 +135,7 @@
     "Python.10.class.executor": "Run",
     "Python.10.emoticon_finder.executor": "Run",
     "Python.10.extract_the_links.executor": "Run",
+    "Python.10.longest_intersection.executor": "Run",
     "Python.10.secret_chat.executor": "Run",
     "Python.10.truck_tour.executor": "Debug",
     "Python.10.word_filter.executor": "Run",
