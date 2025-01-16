@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/06.unique_usernames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/07.sets_of_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/08.periodic_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/09.count_symbols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/10.longest_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/11.battle_of_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/01.sum_matrix_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/02.even_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/03.flattening_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/04.sum_matrix_columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/05.primary_diagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/06.symbol_in_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/07.square_with_maximum_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/01.Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/02.expression_evaluator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/03.Milkshakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/04.honey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/05.santas_present.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/06.paint_colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +67,8 @@
     "Python.01.reverse_string.executor": "Debug",
     "Python.01.reverse_strings.executor": "Run",
     "Python.01.the_imitation_game.executor": "Run",
+    "Python.02.even_matrix.executor": "Run",
+    "Python.02.expression_evaluator.executor": "Debug",
     "Python.02.fancy_barcodes.executor": "Run",
     "Python.02.match_phone_number.executor": "Run",
     "Python.02.matching_parentheses.executor": "Run",
@@ -69,8 +78,10 @@
     "Python.02.stock.executor": "Run",
     "Python.02.students_grade.executor": "Run",
     "Python.02.trains.executor": "Run",
+    "Python.03.Milkshakes.executor": "Run",
     "Python.03.computer_store.executor": "Run",
     "Python.03.email.executor": "Run",
+    "Python.03.flattening_matrix.executor": "Run",
     "Python.03.match_dates.executor": "Run",
     "Python.03.need_for_speed.executor": "Run",
     "Python.03.statistic.executor": "Run",
@@ -92,6 +103,7 @@
     "Python.05.circle.executor": "Run",
     "Python.05.digit_letter_other.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
+    "Python.05.primary_diagonal.executor": "Debug",
     "Python.05.soft_uni_party.executor": "Run",
     "Python.05.sorting_names.executor": "Run",
     "Python.06.even_numbers.executor": "Debug",
@@ -100,12 +112,14 @@
     "Python.06.shopping.executor": "Debug",
     "Python.06.space_travel.executor": "Run",
     "Python.06.storage.executor": "Run",
+    "Python.06.symbol_in_matrix.executor": "Run",
     "Python.06.the_pianist.executor": "Run",
     "Python.06.unique_usernames.executor": "Run",
     "Python.06.valid_username.executor": "Run",
     "Python.07.character_multiplier.executor": "Run",
     "Python.07.patterns.executor": "Run",
     "Python.07.sets_of_elements.executor": "Run",
+    "Python.07.square_with_maximum_sum.executor": "Run",
     "Python.07.the_office.executor": "Run",
     "Python.07.weapon.executor": "Debug",
     "Python.07.word_synonims.executor": "Debug",
