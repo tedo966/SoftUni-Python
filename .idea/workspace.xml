@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/01.sum_matrix_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/02.even_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/03.flattening_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/04.sum_matrix_columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/05.primary_diagonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/06.symbol_in_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/07.square_with_maximum_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/01.Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/02.expression_evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/03.Milkshakes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/04.honey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/05.santas_present.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/06.paint_colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/04.honey.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/04.honey.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +76,7 @@
     "Python.03.substring.executor": "Debug",
     "Python.03.supermarket.executor": "Debug",
     "Python.03.to_do_list.executor": "Debug",
+    "Python.04.honey.executor": "Run",
     "Python.04.match_numbers.executor": "Run",
     "Python.04.mu_online.executor": "Debug",
     "Python.04.palindrome_strings.executor": "Run",
