@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/04.honey.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/04.honey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/03.Milkshakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/03.Milkshakes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/05.santas_present.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/05.santas_present.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/06.paint_colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/06.paint_colors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +100,7 @@
     "Python.06.even_numbers.executor": "Debug",
     "Python.06.find_ocurrence.executor": "Run",
     "Python.06.odd_occurrences.executor": "Debug",
+    "Python.06.paint_colors.executor": "Run",
     "Python.06.shopping.executor": "Debug",
     "Python.06.space_travel.executor": "Run",
     "Python.06.storage.executor": "Run",
