@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/08.Diagonals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/09.Diagonal_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/10.2x2_square_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/11.maximal_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/12.matrix_palindromes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/13.matrix_shuffling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/14.snake_moves.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/03.Milkshakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/03.Milkshakes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/05.santas_present.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/05.santas_present.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/06.paint_colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Stacks_queues_tuples_sets/06.paint_colors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +119,7 @@
     "Python.07.the_office.executor": "Run",
     "Python.07.weapon.executor": "Debug",
     "Python.07.word_synonims.executor": "Debug",
+    "Python.08.Diagonals.executor": "Run",
     "Python.08.burger_bus.executor": "Run",
     "Python.08.catalogue.executor": "Run",
     "Python.08.count_chars_in_string.executor": "Run",
@@ -127,6 +132,7 @@
     "Python.08.smallest_of_three_nums.executor": "Run",
     "Python.08.wich_are_in.executor": "Run",
     "Python.09,drink_something.executor": "Run",
+    "Python.09.Diagonal_difference.executor": "Run",
     "Python.09.caesar_cipher.executor": "Run",
     "Python.09.chat_codes.executor": "Run",
     "Python.09.cooking_masterclass.executor": "Debug",
@@ -137,6 +143,7 @@
     "Python.09.next_version.executor": "Run",
     "Python.09.plants.executor": "Run",
     "Python.09.town.executor": "Run",
+    "Python.10.2x2_square_matrix.executor": "Debug",
     "Python.10.capitals.executor": "Run",
     "Python.10.class.executor": "Run",
     "Python.10.emoticon_finder.executor": "Run",
@@ -148,6 +155,7 @@
     "Python.10_spring_vacation.executor": "Run",
     "Python.11.balanced_parenthesis.executor": "Debug",
     "Python.11.inventory.executor": "Run",
+    "Python.11.maximal_sum.executor": "Debug",
     "Python.11.maximum_multiple.executor": "Debug",
     "Python.11.mirror.executor": "Run",
     "Python.11.number_classification.executor": "Run",
@@ -156,6 +164,7 @@
     "Python.11.weapon_smith.executor": "Run",
     "Python.12.even_nums.executor": "Run",
     "Python.12.legendary_farming.executor": "Run",
+    "Python.12.matrix_palindromes.executor": "Debug",
     "Python.12.orders.executor": "Run",
     "Python.12.paintings_numbers.executor": "Run",
     "Python.12.password_resset.executor": "Run",
