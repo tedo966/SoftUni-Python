@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/08.Diagonals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/09.Diagonal_difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/10.2x2_square_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/11.maximal_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/12.matrix_palindromes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/13.matrix_shuffling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/14.snake_moves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/15.radioactive_mutant_vampire_bunnies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/08.Diagonals.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/08.Diagonals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/11.maximal_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/11.maximal_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/12.matrix_palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/12.matrix_palindromes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/13.matrix_shuffling.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/13.matrix_shuffling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/14.snake_moves.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/14.snake_moves.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +154,7 @@
     "Python.10_spring_vacation.executor": "Run",
     "Python.11.balanced_parenthesis.executor": "Debug",
     "Python.11.inventory.executor": "Run",
-    "Python.11.maximal_sum.executor": "Debug",
+    "Python.11.maximal_sum.executor": "Run",
     "Python.11.maximum_multiple.executor": "Debug",
     "Python.11.mirror.executor": "Run",
     "Python.11.number_classification.executor": "Run",
@@ -164,7 +163,7 @@
     "Python.11.weapon_smith.executor": "Run",
     "Python.12.even_nums.executor": "Run",
     "Python.12.legendary_farming.executor": "Run",
-    "Python.12.matrix_palindromes.executor": "Debug",
+    "Python.12.matrix_palindromes.executor": "Run",
     "Python.12.orders.executor": "Run",
     "Python.12.paintings_numbers.executor": "Run",
     "Python.12.password_resset.executor": "Run",
@@ -173,6 +172,7 @@
     "Python.13.electron_distribution.executor": "Run",
     "Python.13.heroes_of_code.executor": "Run",
     "Python.13.letters_change_numbers.executor": "Run",
+    "Python.13.matrix_shuffling.executor": "Run",
     "Python.13.orders.executor": "Run",
     "Python.13.string.purness.executor": "Run",
     "Python.13.vheicle.executor": "Run",
@@ -181,12 +181,14 @@
     "Python.14.group_of_10.executor": "Debug",
     "Python.14.movie.executor": "Run",
     "Python.14.rage_quit.executor": "Run",
+    "Python.14.snake_moves.executor": "Debug",
     "Python.14.soft_uni_parking.executor": "Run",
     "Python.15.courses.executor": "Run",
     "Python.15.cups_and_bottles.executor": "Run",
     "Python.15.decipher_this.executor": "Debug",
     "Python.15.how_much_coffee_needed.executor": "Run",
     "Python.15.message_decrypter.executor": "Run",
+    "Python.15.radioactive_mutant_vampire_bunnies.executor": "Run",
     "Python.15.winning_ticket.executor": "Run",
     "Python.16.degustation.executor": "Run",
     "Python.16.pass_validator.executor": "Run",
