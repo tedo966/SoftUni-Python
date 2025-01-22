@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/15.radioactive_mutant_vampire_bunnies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/16.flatten_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/17.matrix_modification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/08.Diagonals.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/08.Diagonals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/11.maximal_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/11.maximal_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/12.matrix_palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/12.matrix_palindromes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/13.matrix_shuffling.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/13.matrix_shuffling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/14.snake_moves.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/14.snake_moves.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,12 +187,14 @@
     "Python.15.radioactive_mutant_vampire_bunnies.executor": "Run",
     "Python.15.winning_ticket.executor": "Run",
     "Python.16.degustation.executor": "Run",
+    "Python.16.flatten_list.executor": "Debug",
     "Python.16.pass_validator.executor": "Run",
     "Python.16.perfect_number.executor": "Run",
     "Python.16.sorting_hat.executor": "Run",
     "Python.16.students_academy.executor": "Run",
     "Python.17.company_users.executor": "Run",
     "Python.17.loading_bar.executor": "Run",
+    "Python.17.matrix_modification.executor": "Debug",
     "Python.17.mutate_string.executor": "Debug",
     "Python.18.easter_bread.executor": "Run",
     "Python.18.factorial_number.executor": "Run",
@@ -356,6 +354,16 @@
           <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Tuples_and_sets/04.parking_lot.py</url>
           <line>3</line>
           <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/16.flatten_list.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/17.matrix_modification.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="203" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
