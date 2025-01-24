@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/16.flatten_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/17.matrix_modification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/01.multiplicate_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/02.personal_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/20.alice_wonderland.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
     "Python.01.comment.executor": "Run",
     "Python.01.count_same_values.executor": "Run",
     "Python.01.match_full_name.executor": "Run",
+    "Python.01.multiplicate_function.executor": "Run",
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
     "Python.01.reverse_string.executor": "Debug",
@@ -62,6 +64,7 @@
     "Python.02.match_phone_number.executor": "Run",
     "Python.02.matching_parentheses.executor": "Run",
     "Python.02.party.executor": "Run",
+    "Python.02.personal_info.executor": "Run",
     "Python.02.repeat_string.executor": "Run",
     "Python.02.shopping.executor": "Debug",
     "Python.02.stock.executor": "Run",
