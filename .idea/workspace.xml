@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/01.multiplicate_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/02.personal_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/20.alice_wonderland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/03.cheese_showcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/04.numbers_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/04.rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/05.recursive_power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/06.operate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/07.negative_vs_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/08.keyword_argument_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/09.even_or_odd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,8 +88,10 @@
     "Python.04.honey.executor": "Run",
     "Python.04.match_numbers.executor": "Run",
     "Python.04.mu_online.executor": "Debug",
+    "Python.04.numbers_filter.executor": "Run",
     "Python.04.palindrome_strings.executor": "Run",
     "Python.04.parking_lot.executor": "Debug",
+    "Python.04.rectangle.executor": "Run",
     "Python.04.students.executor": "Debug",
     "Python.04.text_filter.executor": "Run",
     "Python.04.water_dispenser.executor": "Run",
@@ -97,11 +104,13 @@
     "Python.05.digit_letter_other.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
     "Python.05.primary_diagonal.executor": "Debug",
+    "Python.05.recursive_power.executor": "Debug",
     "Python.05.soft_uni_party.executor": "Run",
     "Python.05.sorting_names.executor": "Run",
     "Python.06.even_numbers.executor": "Debug",
     "Python.06.find_ocurrence.executor": "Run",
     "Python.06.odd_occurrences.executor": "Debug",
+    "Python.06.operate.executor": "Run",
     "Python.06.paint_colors.executor": "Run",
     "Python.06.shopping.executor": "Debug",
     "Python.06.space_travel.executor": "Run",
@@ -111,6 +120,7 @@
     "Python.06.unique_usernames.executor": "Run",
     "Python.06.valid_username.executor": "Run",
     "Python.07.character_multiplier.executor": "Run",
+    "Python.07.negative_vs_positive.executor": "Run",
     "Python.07.patterns.executor": "Run",
     "Python.07.sets_of_elements.executor": "Run",
     "Python.07.square_with_maximum_sum.executor": "Run",
@@ -126,6 +136,7 @@
     "Python.08.extract_file.executor": "Run",
     "Python.08.fast_food.executor": "Run",
     "Python.08.jennys_secret.executor": "Run",
+    "Python.08.keyword_argument_length.executor": "Run",
     "Python.08.periodic_table.executor": "Run",
     "Python.08.smallest_of_three_nums.executor": "Run",
     "Python.08.wich_are_in.executor": "Run",
@@ -135,6 +146,7 @@
     "Python.09.chat_codes.executor": "Run",
     "Python.09.cooking_masterclass.executor": "Debug",
     "Python.09.count_symbols.executor": "Run",
+    "Python.09.even_or_odd.executor": "Run",
     "Python.09.fashion_boutique.executor": "Debug",
     "Python.09.furniture.executor": "Debug",
     "Python.09.miner_task.executor": "Run",
@@ -215,7 +227,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "E:/SoftUni-Python",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -362,11 +374,6 @@
           <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/16.flatten_list.py</url>
           <line>4</line>
           <option name="timeStamp" value="198" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/17.matrix_modification.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="203" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
