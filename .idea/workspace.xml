@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/10.concatenate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/11.function_executor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/12.grocery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/13.age_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/14.recursion_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/01.numbers_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/02.email_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/03.password_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/04.rotate_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/05.online_banking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/04.numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Functions_advanced/04.numbers_filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +58,11 @@
     "Python.01.multiplicate_function.executor": "Run",
     "Python.01.no_vowels.executor": "Run",
     "Python.01.number_definer.executor": "Run",
+    "Python.01.numbers_dictionary.executor": "Run",
     "Python.01.reverse_string.executor": "Debug",
     "Python.01.reverse_strings.executor": "Run",
     "Python.01.the_imitation_game.executor": "Run",
+    "Python.02.email_validator.executor": "Run",
     "Python.02.even_matrix.executor": "Run",
     "Python.02.expression_evaluator.executor": "Debug",
     "Python.02.fancy_barcodes.executor": "Run",
@@ -80,6 +81,7 @@
     "Python.03.flattening_matrix.executor": "Run",
     "Python.03.match_dates.executor": "Run",
     "Python.03.need_for_speed.executor": "Run",
+    "Python.03.password_validator.executor": "Run",
     "Python.03.statistic.executor": "Run",
     "Python.03.substring.executor": "Debug",
     "Python.03.supermarket.executor": "Debug",
@@ -91,6 +93,7 @@
     "Python.04.palindrome_strings.executor": "Run",
     "Python.04.parking_lot.executor": "Debug",
     "Python.04.rectangle.executor": "Run",
+    "Python.04.rotate_matrix.executor": "Run",
     "Python.04.students.executor": "Debug",
     "Python.04.text_filter.executor": "Run",
     "Python.04.water_dispenser.executor": "Run",
@@ -102,6 +105,7 @@
     "Python.05.circle.executor": "Run",
     "Python.05.digit_letter_other.executor": "Run",
     "Python.05.numbers_between.executor": "Debug",
+    "Python.05.online_banking.executor": "Run",
     "Python.05.primary_diagonal.executor": "Debug",
     "Python.05.recursive_power.executor": "Debug",
     "Python.05.soft_uni_party.executor": "Run",
