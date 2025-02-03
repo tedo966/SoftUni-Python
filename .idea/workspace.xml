@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/01.numbers_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/02.email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/03.password_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/04.rotate_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Error_handling/05.online_banking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/click_bait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/01_even_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/02_line_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/03_file_manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/04_directory_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/ex_files/ex_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/demo.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/nested_dir/inside_nested_dir/inside_nested.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/nested_dir/nested_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/example_dir/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/input_ex_3_test_data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Unit Test" />
+        <option value="Test" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -51,9 +64,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.01.bakery.executor": "Run",
     "Python.01.comment.executor": "Run",
     "Python.01.count_same_values.executor": "Run",
+    "Python.01.even_lines.executor": "Debug",
+    "Python.01.even_lists.executor": "Run",
     "Python.01.match_full_name.executor": "Run",
     "Python.01.multiplicate_function.executor": "Run",
     "Python.01.no_vowels.executor": "Run",
@@ -66,6 +82,7 @@
     "Python.02.even_matrix.executor": "Run",
     "Python.02.expression_evaluator.executor": "Debug",
     "Python.02.fancy_barcodes.executor": "Run",
+    "Python.02.line_numbers.executor": "Run",
     "Python.02.match_phone_number.executor": "Run",
     "Python.02.matching_parentheses.executor": "Run",
     "Python.02.party.executor": "Run",
@@ -78,6 +95,7 @@
     "Python.03.Milkshakes.executor": "Run",
     "Python.03.computer_store.executor": "Run",
     "Python.03.email.executor": "Run",
+    "Python.03.file_manipulation.executor": "Debug",
     "Python.03.flattening_matrix.executor": "Run",
     "Python.03.match_dates.executor": "Run",
     "Python.03.need_for_speed.executor": "Run",
@@ -86,6 +104,7 @@
     "Python.03.substring.executor": "Debug",
     "Python.03.supermarket.executor": "Debug",
     "Python.03.to_do_list.executor": "Debug",
+    "Python.04.directory_traversal.executor": "Debug",
     "Python.04.honey.executor": "Run",
     "Python.04.match_numbers.executor": "Run",
     "Python.04.mu_online.executor": "Debug",
@@ -99,6 +118,7 @@
     "Python.04.water_dispenser.executor": "Run",
     "Python.04.world_tour.executor": "Run",
     "Python.04.zoo.executor": "Run",
+    "Python.04_directory_traversal.executor": "Run",
     "Python.05.ascii_values.executor": "Run",
     "Python.05.bonus_scoring_system.executor": "Run",
     "Python.05.capture_the_numbers.executor": "Run",
@@ -224,6 +244,7 @@
     "Python.19.christmas_spirit.executor": "Run",
     "Python.19.data_types.executor": "Run",
     "Python.19.soft_uni_exam_results.executor": "Run",
+    "Python.click_bait.executor": "Run",
     "Python.demo.executor": "Run",
     "Python.demo2.executor": "Run",
     "Python.example.executor": "Run",
@@ -239,6 +260,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SoftUni-Python\SoftUni-Python-Advanced\File_handling\ex_files" />
       <recent name="E:\SoftUni-Python\SoftUni-Python-Fundamentals" />
       <recent name="E:\SoftUni-Python\Functions" />
       <recent name="$PROJECT_DIR$/BasicSynx-CS-Loops" />
@@ -247,7 +269,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -381,6 +403,16 @@
           <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/16.flatten_list.py</url>
           <line>4</line>
           <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/click_bait.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/03_file_manipulation.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="201" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
