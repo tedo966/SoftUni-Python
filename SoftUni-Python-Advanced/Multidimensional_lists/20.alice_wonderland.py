@@ -34,4 +34,5 @@ if tea_bags >= 10:
     print("She did it! She went to the party.")
 else:
     print("Alice didn't make it to the tea party.")
+
 [print(*row) for row in matrix]
