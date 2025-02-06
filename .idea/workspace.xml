@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/planting_garden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/space_mission.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/21.range_day.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/22.present_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/ball_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/bomb_has_been_planted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/roman_emperor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/20.alice_wonderland.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Multidimensional_lists/20.alice_wonderland.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,6 +236,8 @@
     "Python.20.alice_wonderland.executor": "Debug",
     "Python.21.range_day.executor": "Run",
     "Python.22.present_delivery.executor": "Run",
+    "Python.ball_game.executor": "Run",
+    "Python.bomb_has_been_planted.executor": "Debug",
     "Python.click_bait.executor": "Run",
     "Python.demo.executor": "Run",
     "Python.demo2.executor": "Run",
@@ -244,8 +245,10 @@
     "Python.find_variable_names.executor": "Run",
     "Python.guess_a_number.executor": "Run",
     "Python.planting_garden.executor": "Debug",
+    "Python.roman_emperor.executor": "Run",
     "Python.sfd.executor": "Run",
     "Python.space_mission.executor": "Run",
+    "Python.tests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -408,6 +411,16 @@
           <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/File_handling/03_file_manipulation.py</url>
           <line>17</line>
           <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/ball_game.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/roman_emperor.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="206" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
