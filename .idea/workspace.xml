@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6138a01-fbf3-4a08-91f5-684f3124821d" name="Changes" comment="https://github.com/tedo966/SoftUni-Python.git">
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/ball_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/bomb_has_been_planted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/roman_emperor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/wild_survival.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,6 +246,7 @@
     "Python.sfd.executor": "Run",
     "Python.space_mission.executor": "Run",
     "Python.tests.executor": "Run",
+    "Python.wild_survival.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -418,9 +416,9 @@
           <option name="timeStamp" value="204" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/roman_emperor.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="206" />
+          <url>file://$PROJECT_DIR$/SoftUni-Python-Advanced/Exam_practise/wild_survival.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="208" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
